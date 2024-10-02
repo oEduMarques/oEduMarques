@@ -25,5 +25,5 @@
 <h3 align="Center">Statistics<h3>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oEduMarques&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oEduMarques&layout=compact&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oEduMarques&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oEduMarques&layout=compact&theme=github_dark)
